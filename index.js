@@ -1,0 +1,10 @@
+const name = "Georgiy";
+let admin = "CalonaT";
+let days = 6;
+const oneDays = 24;
+const minute = 60;
+const second = 60;
+let daysSecond = days * oneDays * minute * second;
+console.log(daysSecond);
+let old = prompt("How old are you?");
+console.log(old);
