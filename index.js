@@ -1,5 +1,6 @@
 const name = "Georgiy";
-let admin = "CalonaT";
+let admin = name;
+console.log(admin);
 let days = 6;
 const oneDays = 24;
 const minute = 60;
